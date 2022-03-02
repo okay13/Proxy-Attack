@@ -11,22 +11,31 @@ If You Want To Attack Websites Strongly, Register On https://console.cloud.googl
  
 # Install
 ```$ sudo su```
+
 ```$ apt install python3``` #Language Of Script
+
 ```$ apt install git``` #Clone Repository
+
 ```$ apt install python3-pip``` #Libary For Script
 
 # Clone
 ```$ git clone https://github.com/okay13/Proxy-Attack``` #Clone Tool
+
 ```$ cd Proxy-Attack``` #Open Folder
+
 ```$ python3 Featherine.py``` #Run Script
 
 # Usage
 ```Mode: [standart/post/head/slow/check]```
 
 Standart: Classic Proxy Attack On Websites
+
 Post: Slow Attack With Legitimate HTTP Post
+
 Head: Layer 7 Type Attack
+
 Slow: Slow Attacks On Websites
+
 Check: Website Ping Checker
 
 ```Input the target url:```

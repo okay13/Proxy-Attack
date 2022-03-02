@@ -503,7 +503,7 @@ def slow(conn, socks_type):
 nums = 0
 
 
-def checking(lines, socks_type, ms, rlock, ):  # Proxy checker coded by Leeon123
+def checking(lines, socks_type, ms, rlock, ):  
     global nums
     global proxies
     proxy = lines.strip().split(":")
